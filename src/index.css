@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+    /* background-color: black; */
+}
+.about{
+    background-image: url('https://img.freepik.com/free-photo/3d-rendering-hexagonal-texture-background_23-2150796444.jpg?ga=GA1.1.1332438718.1734249706&semt=ais_hybrid');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
